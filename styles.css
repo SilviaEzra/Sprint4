@@ -9,12 +9,12 @@
 body {
   background: url("./img/emojis.jpg");
   background-position: center;
-  background-size: cover;
+  background-size:cover;
   background-repeat:no-repeat ;
   max-width: 100%;
   font-family: 'Roboto', cursive;
   display: flex;
-  flex-direction: column;
+  flex-direction:row;
   align-items: center;
   justify-content: center;
   height: 100vh;
@@ -27,6 +27,7 @@ body {
 
 .container {
   background-color: #2d2b1f;
+  align-content: center;
   border-radius: 10px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, .1), 0 6px 6px rgba(0, 0, 0, .1);
   padding: 50px 20px;
