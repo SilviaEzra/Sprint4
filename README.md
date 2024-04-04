@@ -1,4 +1,4 @@
-# Don't Laugh Challenge
+# Don't Laugh Challenge 😄
 
 ¡Bienvenido al desafío "Don't Laugh"!
 
